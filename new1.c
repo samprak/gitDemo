@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("new file has been created");
+    printf("yeah I'm doing");
     return 0;
 }
